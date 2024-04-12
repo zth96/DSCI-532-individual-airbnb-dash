@@ -9,6 +9,7 @@ data = pd.read_csv('data/processed/processed_data.csv')
 
 # Initialize Dash app
 app = dash.Dash(__name__)
+server = app.server
 
 # Define app layout
 app.layout = html.Div(children=[
