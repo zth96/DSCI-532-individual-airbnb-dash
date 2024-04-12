@@ -33,6 +33,7 @@ fastjsonschema==2.19.1
 Flask==3.0.2
 fonttools==4.50.0
 fqdn==1.5.1
+gunicorn==20.1.0
 idna==3.6
 importlib_metadata==7.1.0
 ipykernel==6.29.4
